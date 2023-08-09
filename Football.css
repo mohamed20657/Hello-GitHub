@@ -1,0 +1,31 @@
+.heading{
+    background-color: black;
+    text-align: left;
+    color: white;
+}
+.laliga_title{
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+}
+.number{
+    text-align: center;
+    color:white ;
+    background-color: darkblue;
+}
+.trophy{
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+}
+.number2{
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+}
+p{
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
